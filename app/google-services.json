@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370238038803",
+    "project_id": "voting-app-fd20b",
+    "storage_bucket": "voting-app-fd20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370238038803:android:fbff626ef32a9dbe5470e6",
+        "android_client_info": {
+          "package_name": "com.example.voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQgSSSOHvEVV4kI-FO2tER7Sfwx-Jp66w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
